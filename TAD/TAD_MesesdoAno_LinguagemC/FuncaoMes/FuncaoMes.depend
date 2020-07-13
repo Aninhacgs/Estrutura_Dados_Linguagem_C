@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1562453830 source:c:\users\aninh\documents\codigos\codigosc\funcoes\funcaomes\declarafuncao.h
+
+1562460437 source:c:\users\aninh\documents\codigos\codigosc\funcoes\funcaomes\main.c
+	<stdio.h>
+	<stdlib.h>
+	"DeclaraFuncao.h"
+
+1562512918 c:\users\aninh\documents\codigos\codigosc\funcoes\funcaomes\declarafuncao.h
+
+1562457952 source:c:\users\aninh\documents\codigos\codigosc\funcoes\funcaomes\implementafuncao.c
+	"DeclaraFuncao.h"
+	<stdio.h>
+	<stdlib.h>
+

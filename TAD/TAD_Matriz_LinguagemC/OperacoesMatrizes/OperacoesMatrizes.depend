@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1563760015 source:c:\users\aninh\documents\codigos\codigosc\funcoes\matrizdiagonalprincipal\main.c
+	<stdio.h>
+	<stdlib.h>
+	"DeclaraFuncao.h"
+
+1563755731 c:\users\aninh\documents\codigos\codigosc\funcoes\matrizdiagonalprincipal\declarafuncao.h
+
+1563809085 source:c:\users\aninh\documents\codigos\codigosc\funcoes\operacoesmatrizes\implementafuncao.c
+	"DeclaraFuncao.h"
+	<stdio.h>
+	<stdlib.h>
+
+1563755731 c:\users\aninh\documents\codigos\codigosc\funcoes\operacoesmatrizes\declarafuncao.h
+
+1563760015 source:c:\users\aninh\documents\codigos\codigosc\funcoes\operacoesmatrizes\main.c
+	<stdio.h>
+	<stdlib.h>
+	"DeclaraFuncao.h"
+
