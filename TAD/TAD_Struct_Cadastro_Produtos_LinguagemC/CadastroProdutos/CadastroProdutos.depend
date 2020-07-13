@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1564623973 source:c:\users\aninh\documents\codigos\codigosc\cadastroprodutos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"DeclaraFuncao.h"
+
+1564623740 c:\users\aninh\documents\codigos\codigosc\cadastroprodutos\declarafuncao.h
+
